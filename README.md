@@ -5,9 +5,9 @@
 ![Rick and Morty Image](https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png)
 
 
--The user can search Rick and Mortys different characters by name, status, species and gender, it can be by one character or by multiple.
--The user can search Rick and Mortys different locations.
--The user can search for one or multiple episodes.
+- The user can search Rick and Mortys different characters by name, status, species and gender, it can be by one character or by multiple.
+- The user can search Rick and Mortys different locations.
+- The user can search for one or multiple episodes.
 
  
  
