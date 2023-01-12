@@ -11,4 +11,4 @@
 
  
  
-   This application will consume an API which returns different characters, locations and episodes for the show Rick and Morty. 
+   - This application will consume an API which returns different characters, locations and episodes for the show Rick and Morty. 
