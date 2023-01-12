@@ -1,4 +1,5 @@
-*** 9-3-Front-End-Portfolio-Project ***
+__* 9-3-Front-End-Portfolio-Project *__
+
 ## A Rick and Morty Information Page
 
 ![Rick and Morty Image](https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png)
