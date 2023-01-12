@@ -1,4 +1,4 @@
-__* 9-3-Front-End-Portfolio-Project *__
+***9-3-Front-End-Portfolio-Project***
 
 ## A Rick and Morty Information Page
 
